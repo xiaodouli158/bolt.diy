@@ -37,8 +37,8 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "xiaodouli15-boltdiy"
+          project: "boltdiy"
           entrypoint: "build/server/index.js"
-          root: "build/client/"
+          root: ""
           
           
