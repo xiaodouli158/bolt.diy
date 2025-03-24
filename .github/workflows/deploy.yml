@@ -38,7 +38,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "xiaodouli15-boltdiy"
-          entrypoint: "build/client"
-          root: "build"
+          entrypoint: "build/client/index.js"
+          root: ""
           
           
