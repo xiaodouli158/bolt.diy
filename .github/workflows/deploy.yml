@@ -38,7 +38,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "boltdiy"
-          entrypoint: "app/entry.client.tsx"
+          entrypoint: "build/client/assets/entry.client-BP5iOhQf.js"
           root: ""
           
           
