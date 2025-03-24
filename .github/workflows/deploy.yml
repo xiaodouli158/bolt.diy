@@ -39,6 +39,6 @@ jobs:
         with:
           project: "boltdiy"
           entrypoint: "index.js"
-          root: "/"
+          root: ""
           
           
