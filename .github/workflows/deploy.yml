@@ -38,7 +38,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "boltdiy"
-          entrypoint: "build/server/index.js"
+          entrypoint: "build/client/index.html"
           root: ""
           
           
